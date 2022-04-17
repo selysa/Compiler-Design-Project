@@ -1,0 +1,17 @@
+## Group 15
+
+## - EIMHIN CAMPBELL CARROLL
+## - SEAN LYSAGHT
+
+## Valid: No
+
+## Description: Duplicate semicolon in a return statement
+
+void main() { ;
+    int x;
+    x = 1;
+    return x;
+}
+
+
+

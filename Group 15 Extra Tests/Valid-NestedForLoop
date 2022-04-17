@@ -1,0 +1,17 @@
+## Group 15
+
+## - EIMHIN CAMPBELL CARROLL
+## - SEAN LYSAGHT
+
+## Valid: Yes
+
+## Description: Nested for loop
+
+void main() { ;
+    for(i=0,i<5,i++){
+        for(j=1.j<5,j++){
+            System.out.println(i + " " + j);
+        }
+        System.out.println();
+    }
+ }

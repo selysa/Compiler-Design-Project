@@ -1,0 +1,24 @@
+## Group 15
+
+## - EIMHIN CAMPBELL CARROLL
+## - SEAN LYSAGHT
+
+## Valid: No
+
+## Description: Less than association in an if statement
+
+void main() { ;
+    int x;
+    int y;
+    int z;
+
+    x = 3
+    y = 2
+    z = 5
+
+    if(a>b>c){
+        System.out.println("hi");
+    }
+
+    
+

@@ -1,0 +1,18 @@
+## Group 15
+
+## - EIMHIN CAMPBELL CARROLL
+## - SEAN LYSAGHT
+
+## Valid: Yes
+
+## Description: Positive and Negative Integer Division
+
+void main() { ;
+    int x;
+    int y;
+    int z;
+
+    x = -3
+    y = 2
+    z = x / y;
+} 
